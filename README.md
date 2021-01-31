@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **AakashJ2412/aakashj2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashj2412&show_icons=true&count_private=true&theme=dark)
 -->
